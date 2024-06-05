@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/nopdev/real-and-fake-news-dataset/data
+
+https://www.kaggle.com/datasets/jruvika/fake-news-detection/data
